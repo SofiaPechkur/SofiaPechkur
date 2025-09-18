@@ -1,8 +1,6 @@
 ## Hi everyone 👋
 
-My name is Sofia.
-
-Beginner Frontend developer, looking for my first job or internship in IT.
+My name is Sofia. Frontend developer with great potential.
 
 I want to join a powerful team of developers, bring value to the business and improve my skills, learn web development.
 
@@ -11,6 +9,7 @@ I quickly find a common language with people and fit into any team. I am able to
 ### Tech stack :computer:
 - HTML5, CSS3, SCSS
 - JavaScript (ES6+)
+- TypeScript
 - React, Redux
 - Bootstrap
 - Webpack
